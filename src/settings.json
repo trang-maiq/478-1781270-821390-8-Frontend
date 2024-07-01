@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content.",
+        "title": "Yay: Unlocking the Future of Technology"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Unlocking the Future of Technology",
+  "subtitle": "Dive into a world where innovation meets insight. Join our community of tech enthusiasts and elevate your knowledge with cutting-edge content."
+}
